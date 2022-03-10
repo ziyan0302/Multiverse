@@ -1,0 +1,5 @@
+*txt
+*.pyc
+*.npz
+packed_models/
+packed_prepro/
