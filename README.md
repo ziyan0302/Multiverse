@@ -84,7 +84,7 @@ Our second contribution is a new model to generate multiple plausible future tra
 
 ## Dependencies
 + Python 2/3; TensorFlow-GPU >= 1.15.0
-+ can run in conda virtual environment with tensorflow=1.15 installed (conda install tensorflow=1.15)
++ Can run in conda virtual environment with tensorflow=1.15 installed (conda install tensorflow=1.15)
 
 ## Pretrained Models
 You can download pretrained models by running the script
