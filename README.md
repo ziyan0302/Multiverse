@@ -85,6 +85,8 @@ Our second contribution is a new model to generate multiple plausible future tra
 ## Dependencies
 + Python 2/3; TensorFlow-GPU >= 1.15.0
 + Can run in conda virtual environment with tensorflow=1.15 installed (conda install tensorflow=1.15)
++ the repo contains some functions only exist in tensorflow1, ex: tf.contrib.rnn.ConvLSTMCell
+
 
 ## Pretrained Models
 You can download pretrained models by running the script
